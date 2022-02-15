@@ -10,4 +10,4 @@ NEW_VERSION="${2}"
 echo "Current version: ${OLD_VERSION}"
 echo "Bumping version: ${NEW_VERSION}"
 
-perl -pi -e "s/^version: .*/version: $NEW_VERSION/" pubspec.yaml
+perl -pi -e "s/^version: .*/version: $NEW_VERSION/" */pubspec.yaml
