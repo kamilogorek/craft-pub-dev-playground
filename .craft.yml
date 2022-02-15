@@ -4,4 +4,3 @@ artifactProvider:
   name: none
 targets:
   - name: pub-dev
-    overwriteCredentialsFile: true
