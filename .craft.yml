@@ -4,3 +4,7 @@ artifactProvider:
   name: none
 targets:
   - name: pub-dev
+    packages:
+      appuno:
+      appdos:
+      apptres:
